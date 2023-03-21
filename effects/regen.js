@@ -1,6 +1,6 @@
 'use strict';
 
-const { Damage, EffectFlag, Heal } = require('ranvier');
+const { Damage, EffectFlag, Heal } = require('whispermud-core');
 
 module.exports = {
   config: {

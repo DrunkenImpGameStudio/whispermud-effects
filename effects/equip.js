@@ -1,6 +1,6 @@
 'use strict';
 
-const { EffectFlag } = require('ranvier');
+const { EffectFlag } = require('whispermud-core');
 
 /**
  * Generic effect used for equipment's stats
